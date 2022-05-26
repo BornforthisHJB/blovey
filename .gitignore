@@ -1,0 +1,5 @@
+
+node_modules/
+yuexixiaozhan/.vuepress/.cache/
+yuexixiaozhan/.vuepress/.temp/
+yuexixiaozhan/.vuepress/dist/
