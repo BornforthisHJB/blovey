@@ -6,17 +6,17 @@ export default hopeTheme({
   hostname: "https://bornforthis.cn/blovey",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mrhope.site",
+    name: "悦兮小栈",
+    url: "https://bornforthis.cn/blovey",
   },
 
   iconAssets: "//at.alicdn.com/t/font_2410206_a0xb9hku9iu.css",
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "ornforthisHJB/blovey",
 
-  docsDir: "demo/src",
+  docsDir: "yuexixiaozhan",
 
   // navbar
   navbar: navbar,
